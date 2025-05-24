@@ -1,41 +1,30 @@
-# pomodoro-gui
-🕒 py-pomodoro
-A simple yet effective Pomodoro Timer App built with Python. This app helps you manage your time efficiently by following the Pomodoro Technique — alternating focused work sessions with short breaks using a clean and intuitive GUI.
+# 🕒 pomodoro-gui
 
-✨ Features
-🖥️ Graphical User Interface (built with Tkinter)
+A user-friendly **Pomodoro Timer App** built with Python. This app helps you boost productivity using the Pomodoro Technique — focused work sessions followed by short breaks — all through a clean graphical interface.
 
-⏲️ Start, pause, and reset Pomodoro sessions
+---
 
-🔁 Automatically switch between work and break intervals
+## ✨ Features
 
-📊 Visual session progress indicator
+- 🖥️ Graphical User Interface (built with Tkinter)  
+- ⏲️ Start, pause, and reset Pomodoro sessions  
+- 🔁 Automatic switching between work and break intervals    
+- 📊 Visual session progress indicator  
+- 🌿 Lightweight, beginner-friendly, and easy to use  
 
-⚙️ Customizable timer durations
+---
 
-🌿 Lightweight, fast, and beginner-friendly
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
-🐍 Python
+- 🐍 Python  
+- 🧰 Tkinter  
+- 📁 Python Standard Library only  
 
-🧰 Tkinter (for GUI)
+---
 
+## 🚀 Getting Started
 
-📁 Uses only Python Standard Library (no external dependencies)
-
-🚀 Getting Started
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/AhmadOmidSaifi/pomodoro.git
-cd py-pomodoro
-Run the app
-
-
-python pomodoro-gui.py
-
-
-📄 License
-This project is licensed under the MIT License.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AhmadOmidSaifi/pomodoro-gui.git
+   cd py-pomodoro
